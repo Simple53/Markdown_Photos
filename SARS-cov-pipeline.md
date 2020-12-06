@@ -49,7 +49,7 @@ Download **Xshell** from [NetSarang.com][1] through `>Free for family/school` ma
 
 Miniconda is a free minimal installer for conda. It is a small, bootstrap version of Anaconda that includes only conda, Python, the packages they depend on, and a small number of other useful packages, including pip, zlib and a few others. Use the `conda install` to install 720+ additional conda packages from the Anaconda repository. 
 
-#### 1. Install miniconda
+#### - Install miniconda
 
 **Download miniconda**
 
@@ -97,7 +97,7 @@ conda create -n env_name python=2
 - Delete packages
 `conda remove pack_name`
 
-#### Software Installation
+#### - Software Installation
 
 **Package List**
 
